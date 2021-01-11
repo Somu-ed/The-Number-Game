@@ -1,0 +1,1 @@
+This is a repository for a Number Game taught in the PWJ course by Clever Programmer.
