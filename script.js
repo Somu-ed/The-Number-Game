@@ -26,6 +26,8 @@ window.onload = function() {
  */
 function playGame(){
   // *CODE GOES BELOW HERE *
+  let numberGuess = document.getElementById('number-guess').value;
+  console.log(numberGuess);
 }
 
 /**
